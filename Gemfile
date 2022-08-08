@@ -48,3 +48,4 @@ group :development do
 end
 
 gem 'graphql', '~> 2.0', '>= 2.0.12'
+gem 'sprockets', '~> 4.1', '>= 4.1.1'

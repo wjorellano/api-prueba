@@ -49,3 +49,4 @@ end
 
 gem 'graphql', '~> 2.0', '>= 2.0.12'
 gem 'sprockets', '~> 4.1', '>= 4.1.1'
+gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
